@@ -56,6 +56,4 @@ Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 Feel free to contact me to contribute to this project. My contact information is listed below.
 
 ## Questions: 
-GitHub: [YOUR NAME HERE]() 
-
-If you have any questions or suggestions, please contact me at <YOUR EMAIL HERE>. 
+## Contact me:  [<img src="https://image.flaticon.com/icons/png/512/726/726623.png" width="40" >](mailto:zoneam@gmail.com)  [<img src="https://image.flaticon.com/icons/png/512/270/270798.png" width="40" >](https://github.com/zoneam)
